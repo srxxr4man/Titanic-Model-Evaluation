@@ -186,7 +186,7 @@ Titanic-Model-Evaluation/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Titanic-Model-Evaluation.git
+git clone https://github.com/srxxr4man/Titanic-Model-Evaluation.git
 ```
 
 ### 2. Navigate to the Project Directory
